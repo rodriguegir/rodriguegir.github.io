@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Projects
+permalink: /projects/
 description: Working papers and research projects.
 nav: true
 nav_order: 3
