@@ -25,7 +25,7 @@ Prices a 7-year principal-protected note linked to a basket of 9 US equities. Im
 **Demographic Ageing and Public Debt: A Cointegration Analysis** (2025)  
 *Python — Engle-Granger and Mean Group estimators, Eurostat & IMF WEO data*  
 Estimates the long-run relationship between demographic ageing and public debt dynamics across 20 European countries.  
-[[GitHub]https://github.com/rodriguegir/Personal-works/tree/230a4f6e6c021aa05160c5b2f66abd756fc7129a/cointegration_analysis]
+[[GitHub](https://github.com/rodriguegir/Personal-works/tree/230a4f6e6c021aa05160c5b2f66abd756fc7129a/cointegration_analysis)]
 
 ---
 
