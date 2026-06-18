@@ -1,65 +1,22 @@
 ---
 layout: page
-title: Projects
+title: projects, code and research
 permalink: /projects/
-description: Working papers and research projects.
 nav: true
-nav_order: 3
-display_categories: [research, code]
-horizontal: false
+nav_order: 2
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Working Papers & Thesis
 
-{% else %}
+**Sovereign Debt Sustainability across Developed Economies** (2025)  
+*Master's thesis, Université Paris Dauphine-Paris Science et Lettres  — supervised by Anton Brender*  
+This thesis studies the long-run determinants of sovereign debt sustainability, with a focus on the role of domestic savings in yields and debt dynamics in the US.  
+[[PDF](/assets/pdf/extract_master_thesis_last.pdf)]
 
-<!-- Display projects without categories -->
+---
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+## Code & Replications
 
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+**Demographic Ageing and Public Debt: A Cointegration Analysis** (2025)  
+*Python — Engle-Granger and Mean Group estimators, Eurostat & IMF WEO data*  
+Estimates the long-run relationship between demographic ageing and public debt dynamics across 20 European countries.  
