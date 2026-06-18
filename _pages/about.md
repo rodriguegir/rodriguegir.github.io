@@ -10,7 +10,7 @@ profile:
   image_circular: false
 
 selected_papers: false
-social: true
+social: false
 ---
 
 I am a Research Analyst in the European Department at the International Monetary
