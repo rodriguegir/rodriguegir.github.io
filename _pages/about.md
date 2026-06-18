@@ -15,8 +15,7 @@ social: true
 
 I am a Research Analyst in the European Department at the International Monetary
 Fund and an MSc graduate in Finance and Economics from the London School of
-Economics. I previously trained at Université Paris-Dauphine (Magistère
-Banque-Finance-Assurance), with an exchange year at Brandeis University.
+Economics. I previously graduated from Université Paris-Dauphine (MSc in Finance and BSc in Applied Economics), with an exchange semester at Brandeis University.
 
 My research interests lie in macro-finance and sovereign debt sustainability,
 with a particular focus on the role of domestic savings in debt dynamics.
