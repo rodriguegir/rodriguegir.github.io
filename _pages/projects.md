@@ -31,6 +31,7 @@ Estimates the long-run relationship between demographic ageing and public debt d
 
 ## Projects at School
 
-**Referee report on Paul Fontanier's Dollar Debt and the Inefficient Global Financial Cycle (2025), written for FM404 at LSE. ** (2026)
+**Referee report on Paul Fontanier's Dollar Debt and the Inefficient Global Financial Cycle (2025), written for FM404 at LSE.** (2026)
 Critical assessment of the model of emerging-market economies with dollar-denominated corporate debt and its "bottleneck externality."
 Joint work with a classmate.
+[[PDF](/assets/pdf/referee_report_fm404.pdf)]
