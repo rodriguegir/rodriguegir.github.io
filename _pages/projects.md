@@ -20,3 +20,7 @@ This thesis studies the long-run determinants of sovereign debt sustainability, 
 **Demographic Ageing and Public Debt: A Cointegration Analysis** (2025)  
 *Python — Engle-Granger and Mean Group estimators, Eurostat & IMF WEO data*  
 Estimates the long-run relationship between demographic ageing and public debt dynamics across 20 European countries.  
+
+---
+
+##**Projects at School**
