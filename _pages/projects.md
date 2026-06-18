@@ -36,7 +36,7 @@ Critical assessment of the model of emerging-market economies with dollar-denomi
 Joint work with a classmate.
 [[PDF](/assets/pdf/FM404_Referee_Report.pdf)]
 
-**Presentation: "The Economic Value of Volatility Timing", Kirby & Fleming (2001)**
+**Presentation: "The Economic Value of Volatility Timing", Kirby, Fleming, Ostdiek (2001)**
 Asset Pricing, LSE
-Summary and critical discussion of Kirby & Fleming's volatility timing framework, with emphasis on how their approach differs from prior literature on market timing.
+Summary and critical discussion of Kirby, Fleming, & Ostdiek's volatility timing framework, with emphasis on how their approach differs from prior literature on market timing.
 [[PDF](/assets/pdf/the_value_of_volatility_timing.pdf)]
