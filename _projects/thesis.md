@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sovereign Debt Sustainability
+title: Master's thesis - Sovereign Debt
 description: Master's thesis, Paris Dauphine - supervised by Anton Brender
 category: research
 importance: 1
