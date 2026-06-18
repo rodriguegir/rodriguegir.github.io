@@ -15,7 +15,7 @@ This thesis studies the long-run determinants of sovereign debt sustainability, 
 
 ---
 
-## Code & Replications
+## Codes
 
 **Monte Carlo Pricer for Multi-Asset Structured Products** (2024)  
 *Python — Correlated GBM, Cholesky decomposition, zero-coupon curve bootstrapping*  
@@ -30,3 +30,7 @@ Estimates the long-run relationship between demographic ageing and public debt d
 ---
 
 ## Projects at School
+
+**Referee report on Paul Fontanier's Dollar Debt and the Inefficient Global Financial Cycle (2025), written for FM404 at LSE. ** (2026)
+Critical assessment of the model of emerging-market economies with dollar-denominated corporate debt and its "bottleneck externality."
+Joint work with a classmate.
