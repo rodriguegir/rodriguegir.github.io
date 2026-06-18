@@ -32,13 +32,13 @@ Estimates the long-run relationship between demographic ageing and public debt d
 ## Projects at School
 
 **Referee report on Paul Fontanier's Dollar Debt and the Inefficient Global Financial Cycle (2025)**  
-Class: Advanced Financial Economics (FM404), LSE, Prof. Peter Kondor
+Class: Advanced Financial Economics (FM404), LSE, Prof. Peter Kondor  
 Critical assessment of the model of emerging-market economies with dollar-denominated corporate debt and its "bottleneck externality."
-Joint work with two classmates.
+Joint work with two classmates.  
 [[PDF](/assets/pdf/FM404_Referee_Report.pdf)]
 
-**Presentation: "The Economic Value of Volatility Timing", Kirby, Fleming, Ostdiek (2001)**
-Class: Financial Econometrics (FM437), LSE, Prof. Philippe Mueller
+**Presentation: "The Economic Value of Volatility Timing", Kirby, Fleming, Ostdiek (2001)**  
+Class: Financial Econometrics (FM437), LSE, Prof. Philippe Mueller  
 Summary and critical discussion of Kirby, Fleming, & Ostdiek's volatility timing framework, with emphasis on how their approach differs from prior literature on market timing.
-Joint work with two classmates.
+Joint work with two classmates.  
 [[PDF](/assets/pdf/the_value_of_volatility_timing.pdf)]
