@@ -10,4 +10,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
-[[CV](/assets/pdf/GIRARD_Rodrigue_Resume_PhD.pdf)]
+[[PDF](/assets/pdf/GIRARD_Rodrigue_Resume_PhD.pdf)]
