@@ -16,7 +16,7 @@ social: false
 I am a Research Analyst in the European Department at the International
 Monetary Fund. I hold an MSc in Finance and Economics from the London School
 of Economics, a Magistère in Banking, Finance and Insurance and a BSc in
-Applied Economics from Université Paris Dauphine - Paris Sciences et Lettres, and spent an exchange year
+Applied Economics from Université Paris Dauphine-Paris Sciences et Lettres, and spent an exchange year
 at Brandeis University.
 
 **Research interests.** Macro-finance, sovereign debt sustainability, public
