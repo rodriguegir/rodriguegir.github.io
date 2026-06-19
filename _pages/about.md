@@ -6,7 +6,7 @@ subtitle: Research Analyst, <a href="https://www.imf.org">International Monetary
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_1.jpg
   image_circular: false
 
 selected_papers: false
