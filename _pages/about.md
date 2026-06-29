@@ -30,5 +30,3 @@ Research gives me the time and space to think carefully about a problem and
 follow an argument wherever it leads. My thesis on sovereign debt
 sustainability was the moment that crystallized this.
 
-I am currently applying to pre-doctoral research positions and intend to
-pursue a PhD in the near future.
